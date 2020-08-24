@@ -5,7 +5,7 @@
 
 ### I am Jose Rodrigo Sanchez Vicarte
 
-I am a Ph.D. student at the University of Illinois at Urbana-Champaign, working under Chris Fletcher. My work lives in the intersection of Adversarial Machine Learning and Hardware Security.
+I am a Ph.D. student at the University of Illinois at Urbana-Champaign, working under [Chris Fletcher](http://cwfletcher.net/). My work lives in the intersection of Adversarial Machine Learning and Hardware Security.
 
 I received my B.S. from Lawrence Technological University (in Southfield, MI), where I was a two time recipient of a Presidential Research Grant.
 
