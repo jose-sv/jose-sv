@@ -1,5 +1,6 @@
 # Hello! 👋
-<a href="https://jose-sv.github.io/"><img alt="Fire CPU logo" src="https://github.com/jose-sv/jose-sv/raw/master/fire.png" align="right" height="150" /></a>
+<a href="https://jose-sv.github.io/"><img alt="Fire CPU logo" src="https://github.com/jose-sv/jose-sv/raw/master/hw_fire.png" align="right" height="150" /></a>
+<a href="https://jose-sv.github.io/"><img alt="Fire ML logo" src="https://github.com/jose-sv/jose-sv/raw/master/ml_fire.png" align="right" height="150" /></a>
 
 ### I am Jose Rodrigo Sanchez Vicarte
 
